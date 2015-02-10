@@ -1,0 +1,122 @@
+[
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Contact Energy",
+        "slug": "contact-energy"
+    },
+    "model": "nzpower.company",
+    "pk": 1
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Energy Direct",
+        "slug": "energy-direct"
+    },
+    "model": "nzpower.company",
+    "pk": 2
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Energy Online",
+        "slug": "energy-online"
+    },
+    "model": "nzpower.company",
+    "pk": 3
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Genesis Energy",
+        "slug": "genesis-energy"
+    },
+    "model": "nzpower.company",
+    "pk": 4
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "King Country Energy",
+        "slug": "king-country-energy"
+    },
+    "model": "nzpower.company",
+    "pk": 5
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Mercury Energy",
+        "slug": "mercury-energy"
+    },
+    "model": "nzpower.company",
+    "pk": 6
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Meridian",
+        "slug": "meridian"
+    },
+    "model": "nzpower.company",
+    "pk": 7
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Nova Energy",
+        "slug": "nova-energy"
+    },
+    "model": "nzpower.company",
+    "pk": 8
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Powershop",
+        "slug": "powershop"
+    },
+    "model": "nzpower.company",
+    "pk": 9
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Pulse Energy",
+        "slug": "pulse-energy"
+    },
+    "model": "nzpower.company",
+    "pk": 10
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Tiny Mighty",
+        "slug": "tiny-mighty"
+    },
+    "model": "nzpower.company",
+    "pk": 11
+},
+{
+    "fields": {
+        "site": "",
+        "rate": 50,
+        "name": "Trustpower Friends",
+        "slug": "trustpower-friends"
+    },
+    "model": "nzpower.company",
+    "pk": 12
+}
+]
