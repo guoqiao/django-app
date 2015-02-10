@@ -1,3 +1,9 @@
-from django.shortcuts import render
+from annoying.decorators import render_to
+from nzpower.models import Company
 
-# Create your views here.
+@render_to()
+def index(request):
+    ctx = {}
+    ctx['objs'] = Company.objects.all()
+    return ctx
+
