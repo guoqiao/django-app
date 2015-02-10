@@ -61,6 +61,11 @@ TEMPLATE_DIRS = (
     PROJ_ROOT/"templates",
 )
 
+FIXTURE_DIRS = (
+    PROJ_ROOT/"fixtures",
+)
+
+
 # Internationalization
 # https://docs.djangoproject.com/en/1.7/topics/i18n/
 
