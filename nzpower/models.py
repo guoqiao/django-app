@@ -20,7 +20,7 @@ class Company(models.Model):
         return self.name
 
     def get_logo(self):
-        return urljoin(settings.STATIC_URL, '%s/logo/%s.jpg' % (APP_NAME, self.slug))
+        return urljoin(settings.STATIC_URL, '%s/img/%s.jpg' % (APP_NAME, self.slug))
 
     def save(self, *args, **kwargs):
         if not self.slug:
