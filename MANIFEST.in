@@ -1,2 +1,5 @@
-include README.md LICENSE
-recursive-include nzpower *
+include README.md 
+include LICENSE
+recursive-include nzpower/static *
+recursive-include nzpower/templates *
+recursive-include nzpower/fixtures *
